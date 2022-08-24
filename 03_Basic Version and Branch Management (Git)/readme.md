@@ -8,13 +8,15 @@ pada section 3 saya belajar tentang Basic Version and Branch Management (Git)
 ## Apa itu VERSIONING?
 Versioning adalah mengatur versi dari source code program
 
-## Git
+## GIT
 Salah satu version control system populer yang digunakan para developer untuk mengembangkan software secara bersama-sama
 
-## Kelebihan Git
+## Kelebihan GIT
 - Penyimpanan yang berbasis file(tidak menggunakan database/SQL).
 - Gratis atau Opensource.
 - Visual Control System yang terdistribusi.
 - Mendukung dalam proyek besar seperti kernel linux.
 - Akses yang hanya menggunakan command line tanpa menggunakan client-server.
 - Tampilan aplikasi yang mudah di pahami untuk pengguna baru
+
+## Manfaat menggunakan GIT
