@@ -23,5 +23,5 @@ Salah satu version control system populer yang digunakan para developer untuk me
 - Bisa memahami cara deploy aplikasi modern.
 - Bisa membuat blog dengan SSG.
 - Aman untuk digunakan membuat proyek bersama karena bisa tahu siapa yang merubahnya atau menggantinya.
-- Bisa memahami cara bekerja dengan kolaborasi membuay proyek.
+- Bisa memahami cara bekerja dengan kolaborasi membuat proyek.
 - Bisa menyimpan seluruh versi source code.
