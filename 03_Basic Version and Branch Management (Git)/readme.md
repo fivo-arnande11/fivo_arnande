@@ -5,9 +5,9 @@ Nama : M. Fivo Arnande
 
 ## Summary
 pada section 3 saya belajar tentang Basic Version and Branch Management (Git).
-git push
-git add
-git branch
+## 1. git push
+## 2. git add
+## 3. git branch
 
 ## Apa itu VERSIONING?
 Versioning adalah mengatur versi dari source code program.
