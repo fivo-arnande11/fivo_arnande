@@ -6,7 +6,7 @@ Nama : M. Fivo Arnande
 ## Summary
 Pada Section 4 ini saya belajar tentang Introduction Mobile App Development.
 
-## Mobile App Development ##
+## Intoductions Mobile App Development ##
 ## * Pengertian Software
 software adalah perangkat lunak yang tersimpan dan dapat di kendalikan pada sistem komputer. Terbentuk dari perintah - perintah dan tidak memiliki bentuk fisik.
 ## * Jenis-jenis Software
