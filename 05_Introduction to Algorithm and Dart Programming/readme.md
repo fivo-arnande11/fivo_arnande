@@ -36,9 +36,9 @@ Pada Section 5 ini saya belajar tentang Introduction to Algorithm and Dart Progr
 
 ## * Program Dart Sederhana
 * Fungsi Main
-    1. Bagian yang dijalankan pertama kali
-    2. Dapat memiliki tipe data void atau int
-    3. Memiliki nama main
+1. Bagian yang dijalankan pertama kali
+2. Dapat memiliki tipe data void atau int
+3. Memiliki nama main
 
 ## * Komentar
  ##### Deskripsi
@@ -65,12 +65,16 @@ Pada Section 5 ini saya belajar tentang Introduction to Algorithm and Dart Progr
  * Tipe data sederhana disebut primitive data type
  #### Jenis
  * int
+
  bilangan bulat
  * double
+
  bilangan pecahan
  * bool
+
  true/false
  * string
+
  teks
 
 
