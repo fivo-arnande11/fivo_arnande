@@ -22,12 +22,16 @@ Pada Section 5 ini saya belajar tentang Introduction to Algorithm and Dart Progr
 
 ## * Kenapa (harus) Dart?
 * Type Safe
+
     Menjamin konsistensi tipe data
 * Null safety
+
     Memberi keamanan dari data bernilai hampa (null)
 * Rich standart library
+
     hadir dengan banyak dukungan library internal
 * Multiplatform
+
     Mampu berjalan pada berbagai jenis perangkat
 
 ## * Program Dart Sederhana
