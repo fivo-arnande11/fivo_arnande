@@ -66,15 +66,15 @@ Pada Section 5 ini saya belajar tentang Introduction to Algorithm and Dart Progr
  #### Jenis
  * int
 
- bilangan bulat
+    bilangan bulat
  * double
 
- bilangan pecahan
+    bilangan pecahan
  * bool
 
- true/false
+    true/false
  * string
 
- teks
+    teks
 
 
