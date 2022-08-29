@@ -15,7 +15,7 @@ Pada Section 5 ini saya belajar tentang Introduction to Algorithm and Dart Progr
     Bahasa pemrograman yang di rancang untuk membuat aplikasi agar dapat berjalan dengan cepat.
 
 ## - Apa itu Dart? (contd)
-    Aplikasi yang dibuat dengan Dart adalah aplikasi yang berjalan disis client (frontend), sepert;
+    Aplikasi yang dibuat dengan Dart adalah aplikasi yang berjalan disisi client (frontend), sepert;
     1. Web (javascript)
     2. Desktop (Dart)
     3. Mobile (Dart)
