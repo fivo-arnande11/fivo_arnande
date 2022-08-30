@@ -14,7 +14,7 @@ Pada Section 7 ini saya belajar tentang Branching - Looping - Function
     * Menjalankan bagian proses jika nilai bool bernilai true.
 ### - IF-ELSE
     * Berjalan dengan if.
-    * Menambahkan alternatif jikai nilai bool adalah false.
+    * Menambahkan alternatif jika nilai bool adalah false.
 ### - Sisipan ELSE-IF
     * Berjalan dengan if.
     * Menambahkan pengujian nilai bool lain.
