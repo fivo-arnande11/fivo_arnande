@@ -1,5 +1,5 @@
 void main() {
-  Lingkaran lingkaran = Lingkaran(15);
+  Lingkaran lingkaran = Lingkaran(16);
   print("Luas Lingkaran = ${lingkaran.getluas()} cm");
 }
 class Lingkaran{
