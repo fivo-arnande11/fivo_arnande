@@ -8,7 +8,7 @@ Nama : M. Fivo Arnande
 Pada Section 7 ini saya belajar tentang Branching - Looping - Function
 
 ## Pengambilan Keputusan
-    ialah Menentukan alur prgram pada kondisi tertentu.
+    ialah Menentukan alur program pada kondisi tertentu.
 ### - IF
     * Memerlukan nilai bool (dari operator logical atau comparison).
     * Menjalankan bagian proses jika nilai bool bernilai true.
