@@ -1,6 +1,6 @@
 void main() {
-  Lingkaran lingkaran = Lingkaran(20);
-  print("Luas = ${lingkaran.getluas()} cm");
+  Lingkaran lingkaran = Lingkaran(15);
+  print("Luas Lingkaran = ${lingkaran.getluas()} cm");
 }
 class Lingkaran{
   double phi = 3.14;
