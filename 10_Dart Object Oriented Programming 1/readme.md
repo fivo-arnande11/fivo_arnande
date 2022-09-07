@@ -49,7 +49,7 @@ OOP memiliki beberapa bagian, diantaranya:
 ### Mengakses Property
     Seperti menggunakan variabel tetapi melalui sebuah object.
 ## Method
-    * Sifat suatu classs.
+    * Sifat suatu class.
     * Aktivitas yang dapat dikerjakan suatu class.
     * Memiliki sifat seperti fungsi.
 ### Membuat Method
