@@ -8,14 +8,14 @@ Nama : M. Fivo Arnande
 Pada Section 10 ini saya belajar tentang Dart Object Oriented Programming 1.
 
 ## Perkenalan Dart Object Oriented Programming 1
-    * Biassa disebut OOP.
+    * Biasa disebut OOP.
     * Program disusun dalam bentu abstraksi object.
     * Data dan proses di letakkan pada abstraksi tersebut.
 ### Keuntungan
     * Mudah di-troubleshoot.
     * Mudah digunakan ulang.
 ### Penggunaan 
-Dart dan berbagai bahasa pemgorgraman lain nya seperti :
+Dart dan berbagai bahasa pemgrograman lain nya seperti :
 * C++
 * Java
 * Javascript
@@ -47,11 +47,11 @@ OOP memiliki beberapa bagian, diantaranya:
 ### Membuat Property
     Seperti variable tetapi terletak dalam sebuah class.
 ### Mengakses Property
-    Seperti menggunakan variabel tetapi melalui Sebuah object.
+    Seperti menggunakan variabel tetapi melalui sebuah object.
 ## Method
     * Sifat suatu classs.
     * Aktivitas yang dapat dikerjakan suatu class.
-    * Memiliki sifat seprti fungsi.
+    * Memiliki sifat seperti fungsi.
 ### Membuat Method
     Seperti fungsi tetapi terletak dalam sebuah class.
 ### Menjalankan Method
