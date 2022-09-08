@@ -5,7 +5,7 @@ class Hewan {
   
 }
 class Mobil{
- int kapasitas=100;
+ int kapasitas=1000;
  
 List <String> muatan=[];
   void tambahmuatan(List <String> names,List <int> berats ){
