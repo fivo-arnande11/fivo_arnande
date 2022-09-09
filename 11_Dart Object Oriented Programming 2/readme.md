@@ -63,7 +63,7 @@ Pada Section 11 ini saya belajar tentang Dart Object Oriented Programming 2.
     * Class Hadiah dapat dimasukkan data dengan tipe T
     * Tipe T dapat digunakan diseluruh class Hadiah
 #### Menggunakan Class dengan Generics
-    Setelah nama class, menjadi tempat tipe data yang diingikan
+    Setelah nama class, menjadi tempat tipe data yang diinginkan
 #### Membuat Fungsi dengan Generics
     * Setelah nama fungsi, menjadi tempat variabel generics
     * Setelah nama fungsi, menjadi tempat tipe data yang diinginkan
