@@ -32,4 +32,4 @@ Pada Section 13 ini saya belajar tentang Platform Widget
 ## CupertinoPageScaffold
     Widget dasar untuk membangun sebuah halaman pada CupertinoApp
 ### Struktur
-    Membentuk tata letak dasar sebuah halaman yang ditulis melalui properti-properti
+    Membentuk tata letak dasar sebuah halaman yang ditulis melalui properti-propert
