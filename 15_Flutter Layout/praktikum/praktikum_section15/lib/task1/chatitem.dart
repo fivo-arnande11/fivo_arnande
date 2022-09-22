@@ -19,7 +19,10 @@ class ChatItem extends StatelessWidget {
         name,
         style: const TextStyle(fontSize: 20, fontWeight: FontWeight.w500),
       ),
-      subtitle: Text(message, style: const TextStyle(fontSize: 16, color: Colors.black26),),
+      subtitle: Text(
+        message,
+        style: const TextStyle(fontSize: 16, color: Colors.black26),
+      ),
       leading: ClipRRect(
         borderRadius: BorderRadius.circular(30),
         child: Container(
