@@ -21,7 +21,7 @@ Pada Section 16 ini saya belajar tentang Assets
     - Gunakan widget image
     - Membutuhkan properti image dengan nilai class  AssetImage()
     - Menggunakan method image.asset, mendapatkan image yang sudah ditambahkan dalam project 
-    - Menggunakan methos image.network, Mendapatkan data image melalui internet dengan menggunakan string urlnya
+    - Menggunakan method image.network, Mendapatkan data image melalui internet dengan menggunakan string urlnya
 ## Font
     - Pengunaan font dengan style tertentu akan menjadi keunikan pada aplikasi
     - Penentuan font yang mau di pakai biasanya oleh UI designer
