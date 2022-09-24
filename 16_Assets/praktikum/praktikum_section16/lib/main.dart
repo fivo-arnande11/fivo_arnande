@@ -27,7 +27,7 @@ class MainScreen extends StatelessWidget {
         padding: const EdgeInsets.all(10),
         mainAxisSpacing: 2,
         crossAxisSpacing: 2,
-        crossAxisCount: 2,
+        crossAxisCount: 3,
         children: [
           FittedBox(
             fit: BoxFit.fill,
@@ -94,10 +94,10 @@ class DetailScreen1 extends StatelessWidget {
       ),
       body: GestureDetector(
         child: SizedBox(
-          width: MediaQuery.of(context).size.width,
-          height: MediaQuery.of(context).size.width,
+          width:500,
+          height: 600,
           child: FittedBox(
-            fit: BoxFit.fill,
+            fit: BoxFit.cover,
             child: Hero(
               tag: 'image1',
               child: Image.network(
@@ -125,10 +125,10 @@ class DetailScreen2 extends StatelessWidget {
       ),
       body: GestureDetector(
         child: SizedBox(
-          width: MediaQuery.of(context).size.width,
-          height: MediaQuery.of(context).size.width,
+          width: 500,
+          height:600,
           child: FittedBox(
-            fit: BoxFit.fill,
+            fit: BoxFit.cover,
             child: Hero(
               tag: 'image2',
               child: Image.network(
@@ -156,10 +156,10 @@ class DetailScreen3 extends StatelessWidget {
       ),
       body: GestureDetector(
         child: SizedBox(
-          width: MediaQuery.of(context).size.width,
-          height: MediaQuery.of(context).size.width,
+          width: 500,
+          height:600,
           child: FittedBox(
-            fit: BoxFit.fill,
+            fit: BoxFit.cover,
             child: Hero(
               tag: 'image3',
               child: Image.network(
