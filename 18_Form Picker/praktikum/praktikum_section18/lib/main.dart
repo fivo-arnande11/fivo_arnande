@@ -1,5 +1,5 @@
 import 'dart:io';
-
+import 'dart:async';
 import 'package:flutter/material.dart';
 import 'package:file_picker/file_picker.dart';
 import 'package:intl/intl.dart';
@@ -65,11 +65,11 @@ class _MyWidgetState extends State<MyWidget> {
               style: ElevatedButton.styleFrom(
                   backgroundColor: Color.fromARGB(255, 212, 103, 1)),
               onPressed: () {
-                 if (filePath != null) {
+                if (filePath != null) {
                   Navigator.push(
                       context,
                       MaterialPageRoute(
-                        builder: (context) => coba(filePath: filePath!),
+                        builder: (context) => PreviewPost(filePath: filePath!),
                       ));
                 }
               },
@@ -78,7 +78,6 @@ class _MyWidgetState extends State<MyWidget> {
       ),
     );
   }
-
 
 // Widget buildFilePicker() {
 //   return Column(
@@ -143,7 +142,7 @@ class _MyWidgetState extends State<MyWidget> {
   }
 
   void _openFile(PlatformFile file) {
-    OpenFile.open(file.path);
+    OpenFile.open(file.path!);
   }
 
   // void _openFile(PlatformFile file) async {
@@ -267,8 +266,8 @@ class _MyWidgetState extends State<MyWidget> {
   }
 }
 
-class coba extends StatelessWidget {
-  const coba({super.key, required this.filePath});
+class PreviewPost extends StatelessWidget {
+  const PreviewPost({super.key, required this.filePath});
 
   final File? filePath;
 
@@ -281,6 +280,9 @@ class coba extends StatelessWidget {
       ),
       body: ListView(padding: const EdgeInsets.all(10), children: [
         Container(child: Image.file(filePath!)),
+        SizedBox(
+          height: 10,
+        ),
         SingleChildScrollView(
           scrollDirection: Axis.horizontal,
           child: Row(
