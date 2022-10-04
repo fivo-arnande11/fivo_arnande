@@ -165,7 +165,7 @@ class ContactPage extends StatelessWidget {
                 Text(
                   item.phone,
                   style: TextStyle(
-                      fontSize: 14, color: Colors.black.withOpacity(0.6)),
+                      fontSize: 14, color: Colors.black.withOpacity(0.5)),
                 ),
               ],
             ),
