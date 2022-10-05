@@ -17,8 +17,11 @@ Pada Section 22 ini saya belajar tentang Flutter State Management (BLoC)
 * Ada 2 jenis state dalam flutter, ephemeral state dan app state
 ##### Ephemeral State
 * Digunakan ketika tidak ada bagian lain pada widget tree yang membutuhkan untuk mengakses data widgetnya, contoh nya :
+
 -PageView
+
 -BottomNavigationBar
+
 -SwitchButton
 * Tidak perlu state management yang kompleks
 * Hanya membutuhkan StatefulWidget dengan menggunakan fungsi setState()
