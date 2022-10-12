@@ -19,19 +19,26 @@ Pada Section 25 ini saya belajar tentang Introduction REST API - JSON serializat
 * Server mengolah dan membalas dengan memberi response
 #### Struktur Request
 * URL
+
     Alamat halaman yang akan di akses
 * Method (GET, POST, PUT, DELETE)
+
     Menunjukan aksi yang diinginkan
 * Header
+
     Informasi tambahan terkait request yang dikirimkan
 * Body
+
     Data yang disertakan bersama request
 #### Struktur Response
 * Status Code
+
     Kode yang mewakili keseluruhan response, baik sukses maupun gagal
 * Header
+
     Informasi tambahan terkait response yang diberikan
 * Body
+
     Data yang disertakan bersama reponse
 ### Dio
 * Sebagai HTTP Client
