@@ -13,10 +13,13 @@ Pada Section 26 ini saya belajar tentang MVVM Architecture
     Memisahkan logic dengan tampilan (view) ke dalam ViewModel
 ### Keuntungan MVVVM Architecture
 * Reusability
+
     Jika ada beberapa tampilan yang memerlukan alur logic yang sama, mereka bisa menggunakan ViewModel yang sama
 * Maintainability
+
     Mudah dirawat karena pekerjaan terkait tampilan tidak tertumpuk bersama logic
 * Testability
+
     Pengujian menjadi terpisah antara pengujian tampilan dengan pengujian logic sehingga dapat meningkatkan produktivitas pada pengujian
 ### Melakukan MVVM
 * Model memiiki 2 bagian, yaitu bentuk data yang akan digunakan dan sumber dari data tersebut
