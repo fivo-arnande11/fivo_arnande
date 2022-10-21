@@ -24,7 +24,7 @@ Pada Section 28 ini saya belajar tentang UI Testing
 * Tiap file fungsi main() yang di dalamnya dapat dituliskan script testing
 * Tiap skenario pengujian disebut test case
 #### Script Testing
-* Test case diawali dengna testWidget dan diberi judul
+* Test case diawali dengan testWidget dan diberi judul
 * Simulasi proses mengaktifkan halaman AboutScreen
 * Memeriksa apakah di halaman tersebut terdapat teks"About Screen"
 #### Menjalankan Testing
